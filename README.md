@@ -110,7 +110,7 @@ while x <= len(palabra):
 ## Imagenes y enlaces:
 
 Para generar una imagen se introduce 
-`![nombre de la imagen](y su link "y opcionalmente un titulo")`
+`![nombre de la imagen](el link de la imagen "y opcionalmente un titulo")`
 ![cheems](https://e.rpp-noticias.io/normal/2020/05/28/254125_948850.jpg "cheems+swholedoge")
 
 <!-- github markdown-->
